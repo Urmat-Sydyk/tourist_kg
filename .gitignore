@@ -1,0 +1,11 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+venv/
+env/
+__pycache__/
+db.sqlite3
+*.pyc
+*.pot
+*.log
+.idea/
